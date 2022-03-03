@@ -47,7 +47,7 @@
 								<br><br>
 								<!-- MVFighterZ -->
 								<h3 class="major">Mv FighterZ</h3>
-								<h4>C#/UNITY/JIRA/TRELLO/MAYA</h4>
+								<h4>C++/UNITY/JIRA/TRELLO/MAYA</h4>
 								<center><span class="image main"><video width="500" height="300" poster="images/MvFighterZThumbnail.png" controls>
 								<source src="MVFighterZ.mp4" type="video/mp4">
 								Your browser does not support the video tag.
@@ -62,7 +62,6 @@
 								
 								<!-- CaptainCure -->
 								<h3 class="major">Captain Cure </h3>
-								<h4>C#/UNITY/JIRA</h4>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
 								<p>Genre : Parkour, 3D model, Solo player, Platformer</p>
 								<p>Github Project: <a href="https://github.com/morijin047/CaptainCure">https://github.com/morijin047/CaptainCure</a></p>
@@ -72,7 +71,6 @@
 								
 								<!-- Battlegrounds -->
 								<h3 class="major">BattleGrounds</h3>
-								<h4>C++/OPENGL/TRELLO</h4>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
 								<p>Genre : BattleArena, 2D sprite, 2 player, FPS</p>
 								<p>Github Project: <a href="https://github.com/morijin047/Battlegrounds">https://github.com/morijin047/Battlegrounds</a></p>
@@ -81,7 +79,6 @@
 								
 								<!-- CardMaker Tool -->
 								<h3 class="major">Yu-Gi-Oh Card Maker</h3>
-								<h4>C#/UNITY</h4>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
 								<p>Genre : Utility, Unity Custom Tool, PNG generation</p>
 								<p>Github Project: <a href="https://github.com/morijin047/CardMaker">https://github.com/morijin047/CardMaker</a></p>
@@ -89,7 +86,6 @@
 								
 								<!-- Touhou Space Invader based -->
 								<h3 class="major">Touhou In Space</h3>
-								<h4>C++/SDL/TRELLO</h4>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
 								<p>Genre : Bullet Hell, 2D sprite, solo player, run based</p>
 								<p>Github Project: <a href="https://github.com/morijin047/SpaceInvaderTouhou">https://github.com/morijin047/SpaceInvaderTouhou</a></p>
@@ -97,7 +93,6 @@
 								
 								<!-- AI -->
 								<h3 class="major">AI</h3>
-								<h4>C++</h4>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
 								<p>Genre : Proof Of Concept</p>
 								<p>Github Project: <a href="https://github.com/morijin047/AI">https://github.com/morijin047/AI</a></p>
